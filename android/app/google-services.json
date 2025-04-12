@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754998609451",
+    "project_id": "cookhub-d3a46",
+    "storage_bucket": "cookhub-d3a46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754998609451:android:3af1d04e6889d8250f8c6e",
+        "android_client_info": {
+          "package_name": "com.example.cookhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoIeYfaCXKIRieTixi4QjRy9f3ikdZ-Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

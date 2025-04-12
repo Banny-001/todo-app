@@ -1,0 +1,2 @@
+C:/Users/Solocom/Desktop/Banny's work/Cook-hub/cookhub/android/app/.cxx/RelWithDebInfo/733n2jz2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Solocom/Desktop/Banny's work/Cook-hub/cookhub/android/app/.cxx/RelWithDebInfo/733n2jz2/arm64-v8a/CMakeFiles/rebuild_cache.dir

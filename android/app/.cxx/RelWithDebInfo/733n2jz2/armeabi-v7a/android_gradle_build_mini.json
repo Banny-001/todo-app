@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Solocom\\flutter-tutorial\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Solocom\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Solocom\\Desktop\\Banny\u0027s work\\Cook-hub\\cookhub\\android\\app\\.cxx\\RelWithDebInfo\\733n2jz2\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Solocom\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Solocom\\Desktop\\Banny\u0027s work\\Cook-hub\\cookhub\\android\\app\\.cxx\\RelWithDebInfo\\733n2jz2\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
